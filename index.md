@@ -10,3 +10,5 @@ die Mutter des Helden, die in der Gegenwart lebt.
 * Stahlskelett
 
 > Astalavista baby!
+
+<img src="https://openclipart.org/image/800px/svg_to_png/226017/Robot-2015082718.png"/>
