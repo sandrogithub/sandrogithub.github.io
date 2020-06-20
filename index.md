@@ -9,3 +9,6 @@ die Mutter des Helden, die in der Gegenwart lebt.
 * Kunsthaut
 * Stahlskelett
 
+'''
+Astalavista baby!
+'''
